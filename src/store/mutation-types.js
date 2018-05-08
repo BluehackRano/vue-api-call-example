@@ -1,0 +1,5 @@
+export const SET_SUBMISSIONS = 'SET_SUBMISSIONS'
+
+export const SET_TOP_SELLERS = 'SET_TOP_SELLERS'
+
+export const SET_ATTRIBUTES = 'SET_ATTRIBUTES'
